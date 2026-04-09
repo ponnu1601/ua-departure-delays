@@ -97,11 +97,8 @@ install.packages(c("nycflights13", "tidyverse", "lubridate", "gridExtra"))
 ```
 ua-departure-delays/
 ├── README.md
-├── .gitignore
 ├── UA_Departure_Delays_2013.html
 ├── UA_Departure_Delays_2023_2024.html
-├── data/
-│   └── README.md (download instructions)
 └── images/
     ├── banner.png
     ├── time_of_day_comparison.png
@@ -109,7 +106,7 @@ ua-departure-delays/
     └── temperature_effects.png
 ```
 
-**Note:** Data files are not included in this repository due to file size. The HTML reports contain complete rendered analyses viewable in any browser. See "How to Replicate" section below for data download instructions.
+**Note:** Data files are not included in this repository. The HTML reports contain complete rendered analyses viewable in any browser. See "How to Replicate" section below for data download instructions.
 
 ---
 
